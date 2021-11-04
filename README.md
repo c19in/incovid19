@@ -1,6 +1,6 @@
 
-A port of the <https://covid19india.org> frontend available at is
-available at <https://github.com/covid19india/covid19india-react>.
+A port of the <https://covid19india.org> frontend available at
+<https://github.com/covid19india/covid19india-react>.
 
 The main changes that have been made are:
 

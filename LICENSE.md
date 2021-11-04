@@ -1,6 +1,8 @@
 MIT License
 
 Copyright (c) 2020 Jeremy Philemon
+Copyright (c) 2020-2021 covid19india Team
+Copyright (c) 2021 Deepayan Sarkar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
